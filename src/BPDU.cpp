@@ -87,12 +87,3 @@ static BPDU BPDU::Parse(iostream s) {
 			portID, (short)messageAge, (short)maxAge, (short)helloTime, (short)delay);
 
 }
-
-
-int main() {
-
-	//add main code here
-  //eg
-	BPDU BPDU_frame = BPDU();
-	return 0;
-}
