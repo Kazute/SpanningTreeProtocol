@@ -6,6 +6,7 @@ Since the BPDU packets require no authentication (including the more recent Rapi
 
 ## BPDU frame
 
+```
  ----------------------------------------------
  |Offset  |Name                       |Size   |
  ----------------------------------------------
@@ -34,6 +35,7 @@ Since the BPDU packets require no authentication (including the more recent Rapi
  ----------------------------------------------
  |35      |Forward Delay              |2 bytes|
  ----------------------------------------------
+ ```
 
 # Compiling with G++
 
