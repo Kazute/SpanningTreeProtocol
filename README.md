@@ -36,6 +36,8 @@ Since the BPDU packets require no authentication (including the more recent Rapi
  |35      |Forward Delay              |2 bytes|
  ----------------------------------------------
  ```
+ 
+ *Source: http://phrack.org/issues/61/12.html*
 
 # Compiling with G++
 
